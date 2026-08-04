@@ -18,7 +18,7 @@ Includes an honest linear neural baseline for comparison.
 |:---------|:-----|:-------|
 | A1 Error Confinement Live Demo | [qnfo-demo-error-confinement](https://github.com/QNFO/qwav-demo-error-confinement) | ✅ LIVE |
 | A2 Q-PNA Classifier Playground | this repo | ✅ LIVE |
-| A3 Ultrametric Convergence Explorer | — | 📋 planned |
+| A3 Ultrametric Convergence Explorer | [qnfo-demo-ultrametric-convergence](https://github.com/QNFO/qwav-demo-ultrametric-convergence) | ✅ LIVE |
 | A4 Tree Distance Sandbox | — | 📋 planned |
 | A5 Hardware Pathway Visualizer | — | 📋 planned |
 
