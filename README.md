@@ -1,3 +1,5 @@
+> **Archived 2026-11-09 (REPO-CONSOLIDATION-1).** This repository is read-only. Its content now lives in QNFO/qwav-demos, folder `qwav-demo-qpna-classifier/` (full history). Plan: rwnq8/agent-operating-system `REPOSITORIES.md`.
+
 # QWAV Q-PNA Classifier Playground (Artifact A2)
 
 **Status:** ✅ LIVE — deployed 2026-08-04
